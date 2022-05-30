@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZE-the-DRAMA-queen
+- 👀 I’m interested in Node.JS and Typescript
+- 🌱 I’m currently learning some cool frameworks like Nest.JS
+- 📫 How to reach me : josegracadesigner@gmail.com
